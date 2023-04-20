@@ -33,4 +33,6 @@ I'm always open to new opportunities, collaborations, or just a chat about backe
 🌟 Thank you for stopping by! Don't forget to check out my repositories and leave a star if you find them helpful or interesting. Remember, the sky's the limit when it comes to coding! 🌟
 
 ![Coding Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![](https://komarev.com/ghpvc/?username=laychopy&style=flat-square)
+
 
