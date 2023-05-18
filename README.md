@@ -2,7 +2,7 @@
 
 I'm a highly experienced backend software engineer with a passion for creating efficient, scalable, and innovative solutions. With a strong background in TypeScript, NestJS, Express, Node.js, microservices, Golang, AWS, and Terraform, I love tackling complex challenges and pushing the boundaries of what's possible.
 
-- 🌟 **Impressive achievement**: My team and I emerged as the winners of the ACM ICPC local competition at my college. We triumphed over other teams by solving intricate algorithmic challenges within tight time constraints. This victory not only fueled my passion for competitive programming but also demonstrated the power of teamwork and effective communication in achieving success.
+<!-- 🌟 **Impressive achievement**: My team and I emerged as the winners of the ACM ICPC local competition at my college. We triumphed over other teams by solving intricate algorithmic challenges within tight time constraints. This victory not only fueled my passion for competitive programming but also demonstrated the power of teamwork and effective communication in achieving success.-->
 - 🌱 I’m currently mastering: **Next.js, TRPC, GraphQL**
 - 💬 Let's talk about: **Backend technologies, best practices, and optimization**
 - 📫 Reach out to me: **softwarelaycho@gmail.com**
