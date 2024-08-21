@@ -26,7 +26,7 @@ I have extensive experience working with a wide range of technologies and tools:
 
 ## 📬 Let's Connect 📬
 
-I'm always open to new opportunities, collaborations, or just a chat about backend technologies. Drop me an email at **softwarelaycho@gmail.com** and let's get the conversation started!
+I'm always open to new opportunities, collaborations, or just a chat about backend technologies. Drop me an email at **luis[at]albarenga.net** and let's get the conversation started!
 
 ---
 
